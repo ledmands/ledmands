@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ledmands!
-- 👀 I’m interested in learning as much about programming and its applications as possible. I am intrigued by AI, aviation / drones, security, and games.
-- 🌱 I’m currently learning C# / C, Linux Command Line Scripts, MySQL, Adobe Web Design Tools (Dreamweaver / Photoshop), CSS / HTML.
-- 💞️ I’m looking to collaborate on application development, game development, data analytics, machine learning / artificial intelligence, robotics.
-- 📫 How to reach me? Email is a great place to start, ledmands23@gmail.com. 
+- 👀 I’m interested in learning as much about programming and its applications as possible. I am intrigued by AI/ML, aviation/drones, security, and games.
+- 🌱 Currently learning and gaining exposure to: Rust, C++, Kali Linux. Currently have experience with Python, C#, Java, .NET/ASP.NET, HTML/CSS, JavaScript, Vue.js, Angular, PHP, Swift, AWS, MySQL
+- 💞️ I would love to work on projects involving application development and software engineering, data analytics, machine learning/artificial intelligence, robotics.
+- 📫 Send me a message on LinkedIn! linkedin.com/in/lucasedmands. 
 
 <!---
 ledmands/ledmands is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
